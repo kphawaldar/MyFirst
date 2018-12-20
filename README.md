@@ -1,2 +1,2 @@
 # MyFirst
-Explore git
+Explore git with us.
